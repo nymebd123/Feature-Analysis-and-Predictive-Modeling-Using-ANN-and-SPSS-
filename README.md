@@ -1,4 +1,4 @@
-# Feature Ranking for Occupant Thermal Comfort Prediction using ANN & SPSS
+# Feature Ranking/CM for Occupant Thermal Comfort Prediction using ANN & SPSS
 
 ## What the Project Does
 This project presents a comprehensive analysis of occupant thermal comfort prediction within educational buildings in Dhaka, Bangladesh. It integrates Artificial Neural Networks (ANNs) and statistical techniques to identify critical factors influencing occupants' thermal comfort levels. The study evaluates feature importance using various methods and develops accurate prediction models based on key features.
